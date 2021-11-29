@@ -1,3 +1,5 @@
+#Python Code to track users of a Virtual Machine (Linux) during internship (2018)
+
 import datetime
 import subprocess
 import platform
